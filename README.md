@@ -2,6 +2,10 @@
 
 AutoGrader is an application for automatically grading test answers. This application allows users to use their camera or upload an image of a test and automatically grade the answers based on predefined questions and answers.
 
+<div>
+<img src="https://github.com/mahmutovichana/Optical-Mark-Recognition/assets/113919501/ca7e577b-7685-4060-9a18-773bead26c58" alt="AutoGraderLogo" align="left" width="400">
+</div>
+
 ## Features
 
 - Users can use their camera or upload an image of the test for automatic grading.
